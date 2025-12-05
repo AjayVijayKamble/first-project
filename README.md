@@ -18,7 +18,7 @@ I'm passionate about transforming enterprise challenges into scalable, automatio
 
 ## 🚀 Featured Projects
 
-### MyTestBusinessCaseGenerator
+### MyBusinessCaseGenerator
 
 **Description**: A smart web application that empowers presales professionals to rapidly generate customized, data-driven business cases. Simply input key parameters—location, transition period, productivity gains, cost savings, implementation timeline, and more—and get a professionally curated business case tailored to specific client contexts.
 
