@@ -4,7 +4,7 @@ Welcome to my collection of intelligent automation solutions and business tools!
 
 ## 👋 About Me
 
-I'm a **Senior Consultant** with a Bachelor's in Computer Science and an MBA (General Management) from **IIM Indore**. With 4+ years of presales and IT consulting experience, I've worked with Fortune 500 clients across CRM, ERP, and digital transformation initiatives. I'm Google Certified Generative AI Leader (Google Gen AI Leader & NCA-GENL) with a passion for leveraging AI and GenAI technologies to solve complex business problems.
+I'm a **Senior Consultant** with a Bachelor's in Computer Science and an MBA (General Management) from **IIM Indore**. With 4+ years of Presales and Strategic Consulting experience, I've worked with Fortune 500 clients across BPS, CRM, ERP, and digital transformation initiatives. I'm Google Certified Generative AI Leader (Google Gen AI Leader & NCA-GENL) with a passion for leveraging AI and GenAI technologies to solve complex business problems.
 
 My expertise spans:
 - **Enterprise Solutions**: CRM, ERP, Contact Center, Finance & Accounting solutions
